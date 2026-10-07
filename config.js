@@ -1,1 +1,1 @@
-const TUNNEL_URL = "https://diversity-swimming-mill-thing.trycloudflare.com/ ";
+window.TUNNEL_URL = "https://diversity-swimming-mill-thing.trycloudflare.com/ ";
