@@ -1,1 +1,4 @@
-window.TUNNEL_URL = "https://diversity-swimming-mill-thing.trycloudflare.com/ ";
+window.STREETCAM_CONFIG = {
+  // Set this to the public URL from `cloudflared tunnel --url ...`.
+  tunnelUrl: "https://wins-pointed-utilize-charleston.trycloudflare.com/"
+};
